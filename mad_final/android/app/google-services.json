@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392649198626",
+    "project_id": "dish-adding",
+    "storage_bucket": "dish-adding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392649198626:android:67c2ddbca0b5d2295a8e7b",
+        "android_client_info": {
+          "package_name": "com.example.mad_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUc_qf9eK_vVCAunpqTng8SPfomNOShFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392649198626:android:3c68c547a971eee35a8e7b",
+        "android_client_info": {
+          "package_name": "com.example.mad_final_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUc_qf9eK_vVCAunpqTng8SPfomNOShFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
